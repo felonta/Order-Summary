@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url("../img/pattern-background-desktop.svg") no-repeat top center;
+  background: url("./assets/images/pattern-background-desktop.svg") no-repeat top center;
   background-size: contain;
   background-color: #e0e8ff;
   width: 100%;
